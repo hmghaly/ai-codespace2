@@ -1,3 +1,6 @@
 {"data": {"query": "test"}, "time": "Mon Jun 12 20:00:03 2023"}
 {"data": {"query": "sfsdf"}, "time": "Mon Jun 12 20:01:27 2023"}
 {"data": {"query": "fsdfwertert"}, "time": "Mon Jun 12 20:01:33 2023"}
+{"data": {"query": "dfsfs"}, "time": "Mon Jun 12 20:03:34 2023"}
+{"data": {"query": "sdfsfsfs"}, "time": "Mon Jun 12 20:03:44 2023"}
+{"data": {"query": "sdfsdf"}, "time": "Mon Jun 12 20:03:47 2023"}
