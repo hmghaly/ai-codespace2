@@ -4,3 +4,6 @@
 {"data": {"query": "dfsfs"}, "time": "Mon Jun 12 20:03:34 2023"}
 {"data": {"query": "sdfsfsfs"}, "time": "Mon Jun 12 20:03:44 2023"}
 {"data": {"query": "sdfsdf"}, "time": "Mon Jun 12 20:03:47 2023"}
+{"data": {"query": "dsfsf"}, "time": "Mon Jun 12 20:05:52 2023"}
+{"data": {"query": "sdfsd"}, "time": "Mon Jun 12 20:05:55 2023"}
+{"data": {"query": "res 75/88"}, "time": "Tue Jun 13 14:10:23 2023"}
